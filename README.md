@@ -28,8 +28,8 @@ Próximamente se integrará autenticación con JWT o Firebase Authentication par
 ### 1️⃣ Clonar el repositorio
 
 ```sh
-git clone https://github.com/juandiegoarchila/comienzo-de-proyectos.git
-cd comienzo-de-proyectos
+git clone https://github.com/juandiegoarchila/Cominezo-de-proyectos-Express.git
+cd Cominezo-de-proyectos-Express
 ```
 
 ### 2️⃣ Abrir el proyecto en Visual Studio Code (opcional)
