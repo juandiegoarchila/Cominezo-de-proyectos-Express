@@ -197,11 +197,11 @@ Ejemplo de `.env`:
 
 ```
 PORT=5000
-GOOGLE_APPLICATION_CREDENTIALS="C:\aca\tu\proyecto\firebase.json"
+GOOGLE_APPLICATION_CREDENTIALS=C:\aca\tu\proyecto\firebase.json
 ```
 
 `Linux/macOS`
-GOOGLE_APPLICATION_CREDENTIALS="/home/usuario/proyecto/firebase.json"
+GOOGLE_APPLICATION_CREDENTIALS=/home/usuario/proyecto/firebase.json
 
 ## 📌 Contribuciones
 
